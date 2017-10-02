@@ -12,6 +12,8 @@ WORKDIR /app
 
 COPY requirements.txt /app/requirements.txt
 COPY service.py /app/service.py
+COPY ram_test.txt /app/ram_test.txt
+COPY disk_test.csv /app/disk_test.csv
 COPY run.sh /app/run.sh
 
 ENTRYPOINT ["/app/run.sh"]
