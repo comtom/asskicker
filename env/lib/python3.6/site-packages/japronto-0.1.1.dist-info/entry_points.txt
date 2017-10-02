@@ -1,0 +1,4 @@
+
+         [console_scripts]
+         japronto = japronto.__main__:main
+    
