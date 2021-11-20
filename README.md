@@ -1,2 +1,2 @@
 # asskicker
-AssKicker service written in python using japronto
+Webservice written in python using japronto for a performance competition. This project placed in first place.
